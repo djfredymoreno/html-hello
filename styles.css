@@ -1,0 +1,70 @@
+body{
+    background-color: #000;
+}
+
+.container{
+    width: 30%;
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+.section-top{
+    display: flex;
+    width: 100%;
+    padding: 1em;
+    box-sizing: border-box;
+}
+
+.logo{
+    width: 10%;
+}
+
+.logo i{
+    font-size: 3em;
+}
+
+.tittle{
+    width: 80%;
+    line-height: 0.1em;
+}
+
+.tittle p{
+    font-size: 1em;
+}
+
+.options{
+    width: 10%;
+}
+
+.options i{
+    font-size: 2.5em;
+    float: right;
+}
+
+.icons i{
+    margin-right: 0.2em;
+}
+
+.marca{
+    float: right;
+}
+
+.section-middle{
+    width: 100%;
+}
+
+.section-middle img{
+    width: 100%;    
+}
+
+.section-bottom .icons{
+    padding: 0.5em;
+}
+
+.icons i{
+    font-size: 2.5em;
+}
+
+.text{
+    padding: 0 0.5em 1em 0.5em;
+}
